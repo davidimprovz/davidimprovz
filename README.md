@@ -8,3 +8,5 @@ Travel and Outdoors 🏞️: Passionate about our world? Me too! I'm finding way
 Web3 🌐 Advocate: Enthusiastic about decentralized marketplaces and economic structures to create fairness and a larger economy for everyone.
 
 Let's connect and explore the possibilities. Feel free to browse my repositories, and if you like what you see, let's collaborate on the next big thing! 🤝
+
+Linkedin: (https://www.linkedin/com/in/davidimprovz)[https://www.linkedin/com/in/davidimprovz]
