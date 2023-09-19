@@ -9,4 +9,4 @@ Web3 🌐 Advocate: Enthusiastic about decentralized marketplaces and economic s
 
 Let's connect and explore the possibilities. Feel free to browse my repositories, and if you like what you see, let's collaborate on the next big thing! 🤝
 
-Linkedin: [https://www.linkedin/com/in/davidimprovz](https://www.linkedin/com/in/davidimprovz)
+Linkedin: [https://www.linkedin.com/in/davidimprovz/](https://www.linkedin.com/in/davidimprovz/)
