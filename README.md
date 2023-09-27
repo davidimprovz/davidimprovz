@@ -30,4 +30,4 @@ I work with a range of technologies, including but not limited to:
 
 Let's connect! If you're interested in accelerating your projects, feel free to browse my repositories, and let's collaborate on your next big thing! 🤝
 
-**[LinkedIn](https://www.linkedin.com/in/davidimprovz/)** | **[Twitter](https://twitter.com/d_comfe)**
+**[LinkedIn](https://www.linkedin.com/in/davidimprovz/)** | **[Twitter](https://twitter.com/d_comfe)** | [Book a meeting](https://cal.com/dwilliams)
