@@ -25,6 +25,8 @@ I work with a range of technologies, including but not limited to:
 - Web3 and Blockchain Technologies: EVM, Brownie
 - Cloud: AWS, Azure, GCP
 - Security: NVIDIA Morpheus, Kali Linux, GPEN & GCIH certifications from SANS
+
+Besides these, I've launched a few consumer products into retail and hosted a syndicated podcast on emerging fabric technologies. 
   
 ## Contact Information
 
