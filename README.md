@@ -11,7 +11,7 @@ I'm an AI expert, forever student, and BMW AI alum dedicated to the pursuit of f
 - **Commodities**: I'm interested in speeding the transition to electric energy with capital and technology. I am testing softwares and approaches to help mining professionals and investors achieve results faster with less mistakes.
 - **Space & Exploration**: Passionate about exploring our world? Me too! I'm finding ways satellites and drones can be used to guide automated decisions for good and for profit.
 - **LLMs & Robotics**: I'm fascinated by multimodal transformers and their ability to accelearte robot programming. I'm researching ways to utilize this architecture on an industrial scale.
-- **Finance**: I provide insights into tech and news for financial independence–typically open data and software, quantum, cyber security, and Web3.
+- **Finance**: I provide insights on financial independence and investing–typically on topics like open data and software, quantum, cyber security, and Web3.
 - **Hobbies**: I share my adventures in photography, photoshop art, and the outdoors.
 
 ## Technologies
