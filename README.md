@@ -3,7 +3,7 @@ Welcome to my GitHub! 🚀
 
 ## About Me
 
-I'm an AI expert, forever student, and BMW AI alum dedicated to the pursuit of freedom and value through technology. I'm currently building the [Drifft newsletter](https://drifft.beehiiv.com) and exploring solutions to challenging problems in commodities and geospatial intelligence. I work with startups and business leaders to prototype AI at a reasonable cost on a short-term basis (1-3 months). Contact me if you'd like to explore solutions but aren't ready to commit serious capital.
+I'm an AI expert, forever student, and BMW AI alum dedicated to the pursuit of freedom and value through technology. I'm currently building the [Drifft newsletter](https://drifft.beehiiv.com) and exploring solutions to challenging problems in commodities and geospatial intelligence. I work with startups and business leaders to prototype AI on a short-term basis (1-3 months).
 
 ## Code Sections
 
